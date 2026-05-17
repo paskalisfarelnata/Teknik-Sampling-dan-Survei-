@@ -1,0 +1,5 @@
+Link goggle collab (Python):
+https://colab.research.google.com/drive/15HVBXlSpbEovQZRgmuo01YSEQYL-EkTe?usp=sharing
+
+Link tableau public:
+https://public.tableau.com/views/TeknikSamplingdanSurvei/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
